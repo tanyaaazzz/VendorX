@@ -101,5 +101,3 @@ streamlit run app.py
 * Advanced filtering and search functionality
 * UI/UX improvements with custom theming
 
----
-
